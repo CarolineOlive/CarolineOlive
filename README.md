@@ -1,9 +1,8 @@
 ## Oii! Eu sou a Carol Oliveira
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolineOlive&show_icons=true&theme=calm)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarolineOlive&repo=Projetos-Bootcamp&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineOlive&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">       
@@ -15,7 +14,7 @@
 
 <!--
 **CarolineOlive/CarolineOlive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineOlive&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
