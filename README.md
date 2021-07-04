@@ -9,7 +9,7 @@
 
 
 
-<a href="www.linkedin.com/in/caroline-oliveira-quim">
+<a href="https://www.linkedin.com/in/caroline-oliveira-quim/">
 <img align="center alt="caroline-linkedin" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain-wordmark.svg"></img>
 </a>
 
