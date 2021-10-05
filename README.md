@@ -15,7 +15,7 @@ Unindo a paixão pela ciência🧪, tecnologia 💻 e análise de dados 📊, es
      <li><a href="https://github.com/CarolineOlive/Challenge_BI_Alura"> Tratando dados com PowerQuery e construindo dashboards com PowerBI</a></li>
   </ul>
   
-⚗<b>Artigos publicos em revistas científicas:</b>
+⚗<b>Artigos publicados em revistas científicas:</b>
    <ul>
       <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0031942218308458?via%3Dihub"> Metabolic response of soybean plants to Sclerotinia sclerotiorum infection</a></li>
       <li><a href="https://www.scielo.br/j/jbchs/a/PygGgXDm8kktSLJmDxkNL8w/?lang=en"> Decomposition Dynamics of Typha angustifolia under Aerobic Conditions</a></li>
