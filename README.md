@@ -17,7 +17,7 @@ Unindo a paixão pela ciência🧪, tecnologia 💻 e análise de dados 📊, es
   
 📊<b>Projetos de BI:</p>
    <ul>
-      <li><a href="https://github.com/CarolineOlive/ETL_Dados_Financas">ETL de dados não ordenados</a></li>
+      <li><a href="https://github.com/CarolineOlive/ETL_Dados_Financas">ETL de dados não ordenados (Finanças)</a></li>
       <li><a href="https://github.com/CarolineOlive/Challenge_BI_Alura_2">Challenge de BI Alura 2° Edição</a></li>
       <li><a href="https://github.com/CarolineOlive/Challenge_BI_Alura">Challenge de BI Alura</a></li>
   </ul>
