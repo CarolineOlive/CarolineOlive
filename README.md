@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Carol Oliveira
-⚗ Química industrial e doutora em química com ênfase em metabolômica, quimiometria e resonância magnética nuclear (RMN). Minha pesquisa acadêmica foi desenvolvida em área multidisciplinar onde desenvolvi habilidades em análise espectroscópica (aquisição, processamento, tratamento dos espectros), análise metabolômica, análise de dados uni- e multivariada (quimiometria)... e ai descobri a paixão pela análise de dados.
+⚗ Analista de dados, doutora em química com ênfase em metabolômica, quimiometria e resonância magnética nuclear (RMN). Minha pesquisa acadêmica foi desenvolvida em área multidisciplinar onde desenvolvi habilidades em análise espectroscópica (aquisição, processamento, tratamento dos espectros), análise metabolômica, análise de dados uni- e multivariada (quimiometria)... e ai descobri a paixão pela análise de dados.
 
 Unindo a paixão pela ciência🧪, tecnologia 💻 e análise de dados 📊, estou direcionando minha carreira para área de Ciência de Dados.
 
