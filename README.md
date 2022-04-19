@@ -4,6 +4,7 @@
 Unindo a paixão pela ciência🧪, tecnologia 💻 e análise de dados 📊, estou direcionando minha carreira para área de Ciência de Dados.
 
 <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Carol-Python" height="40" width="40" src="https://user-images.githubusercontent.com/73675930/163910964-8962886f-99d1-48e4-9cf5-0c554e6aba7e.png">
 
 
 💻<b>Projetos de ciência de dados:</b>
