@@ -14,14 +14,15 @@ Unindo a paixão pela ciência🧪, tecnologia 💻 e análise de dados 📊, es
      <li><a href="https://github.com/CarolineOlive/Projetos-Bootcamp/blob/master/Caroline_Oliveira_Projeto_Final_Bootcamp_Data_Science_2021.ipynb"> Machine learning e COVID 19 - prevendo a necessidade de vagas em UTIs</a></li>
      <li><a href="https://github.com/CarolineOlive/Projetos-Bootcamp/blob/master/Caroline_Oliveira_Projeto_M%C3%B3dulo_02.ipynb"> Cobertura Vacinal</a></li>
      <li><a href="https://github.com/CarolineOlive/Projetos-Bootcamp/blob/master/Caroline_Oliveira_Projeto_modulo_1.ipynb"> Câncer de mama e do colo do útero - Um panorâma do Brasil de 2008 a 2020</a></li>
-     <li><a href="https://github.com/CarolineOlive/Challenge_BI_Alura"> Tratando dados com PowerQuery e construindo dashboards com PowerBI</a></li>
-  </ul>
+     
   
 📊<b>Projetos de BI:</p>
    <ul>
       <li><a href="https://github.com/CarolineOlive/ETL_Dados_Financas">ETL de dados não ordenados (Finanças)</a></li>
       <li><a href="https://github.com/CarolineOlive/Challenge_BI_Alura_2">Challenge de BI Alura 2° Edição</a></li>
       <li><a href="https://github.com/CarolineOlive/Challenge_BI_Alura">Challenge de BI Alura</a></li>
+      <li><a href="https://github.com/CarolineOlive/Challenge_BI_Alura"> Tratando dados com PowerQuery e construindo dashboards com PowerBI</a></li>
+  </ul>
   </ul>
   
 ⚗<b>Artigos publicados em revistas científicas:</b>
