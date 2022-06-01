@@ -23,7 +23,6 @@ Unindo a paixão pela ciência🧪, tecnologia 💻 e análise de dados 📊, es
       <li><a href="https://github.com/CarolineOlive/Challenge_BI_Alura">Challenge de BI Alura</a></li>
       <li><a href="https://github.com/CarolineOlive/Challenge_BI_Alura"> Tratando dados com PowerQuery e construindo dashboards com PowerBI</a></li>
   </ul>
-  </ul>
   
 ⚗<b>Artigos publicados em revistas científicas:</b>
    <ul>
