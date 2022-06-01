@@ -14,7 +14,7 @@ Unindo a paixão pela ciência🧪, tecnologia 💻 e análise de dados 📊, es
      <li><a href="https://github.com/CarolineOlive/Projetos-Bootcamp/blob/master/Caroline_Oliveira_Projeto_Final_Bootcamp_Data_Science_2021.ipynb"> Machine learning e COVID 19 - prevendo a necessidade de vagas em UTIs</a></li>
      <li><a href="https://github.com/CarolineOlive/Projetos-Bootcamp/blob/master/Caroline_Oliveira_Projeto_M%C3%B3dulo_02.ipynb"> Cobertura Vacinal</a></li>
      <li><a href="https://github.com/CarolineOlive/Projetos-Bootcamp/blob/master/Caroline_Oliveira_Projeto_modulo_1.ipynb"> Câncer de mama e do colo do útero - Um panorâma do Brasil de 2008 a 2020</a></li>
-     
+   </ul>
   
 📊<b>Projetos de BI:</p>
    <ul>
