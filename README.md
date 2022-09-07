@@ -3,12 +3,12 @@
 
 Unindo a paixão pela ciência🧪, tecnologia 💻 e análise de dados 📊, estou direcionando minha carreira para área de Ciência de Dados.
 
-<img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Carol-Python" height="40" width="40" src="https://user-images.githubusercontent.com/73675930/163910964-8962886f-99d1-48e4-9cf5-0c554e6aba7e.png">
+<img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> <img align="center" alt="Carol-Python" height="40" width="40" src="https://user-images.githubusercontent.com/73675930/163910964-8962886f-99d1-48e4-9cf5-0c554e6aba7e.png"/>    <img align="center" alt="Carol-postgre" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/> <img align="center" alt="Carol-postgre" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/b76704a375ae550a08e627ab148945e6eee3d0d6/SVG/Power-BI.svg"/> 
 
 
 💻<b>Projetos de ciência de dados:</b>
    <ul>
+     <li><a href="https://github.com/CarolineOlive/Challenge_Dados">Análise de Crédito</a></li><i>(em desenvolvimento)</i></li>
      <li><a href="https://github.com/CarolineOlive/Challenge_DataScience">Predição de Churn</a></li>
      <li><a href="https://github.com/CarolineOlive/Quimiometria-com-Python">Quimiometria com Python</a><i>(em desenvolvimento)</i></li>
      <li><a href="https://github.com/CarolineOlive/Projetos-Bootcamp/blob/master/Caroline_Oliveira_Projeto_Final_Bootcamp_Data_Science_2021.ipynb"> Machine learning e COVID 19 - prevendo a necessidade de vagas em UTIs</a></li>
