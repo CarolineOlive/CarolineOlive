@@ -8,7 +8,7 @@ Unindo a paixão pela ciência🧪, tecnologia 💻 e análise de dados 📊, es
 
 💻<b>Projetos de ciência de dados:</b>
    <ul>
-     <li><a href="https://github.com/CarolineOlive/Challenge_Dados">Análise de Crédito</a></li><i>(em desenvolvimento)</i></li>
+     <li><a href="https://github.com/CarolineOlive/Challenge_Dados">Análise de Crédito</a><i>(em desenvolvimento)</i></li>
      <li><a href="https://github.com/CarolineOlive/Challenge_DataScience">Predição de Churn</a></li>
      <li><a href="https://github.com/CarolineOlive/Quimiometria-com-Python">Quimiometria com Python</a><i>(em desenvolvimento)</i></li>
      <li><a href="https://github.com/CarolineOlive/Projetos-Bootcamp/blob/master/Caroline_Oliveira_Projeto_Final_Bootcamp_Data_Science_2021.ipynb"> Machine learning e COVID 19 - prevendo a necessidade de vagas em UTIs</a></li>
